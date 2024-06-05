@@ -1,0 +1,9 @@
+﻿<Application x:Class="_2324_1Y_CpEOOP_RandomKeyPad.App"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:local="clr-namespace:_2324_1Y_CpEOOP_RandomKeyPad"
+             StartupUri="MainWindow.xaml">
+    <Application.Resources>
+         
+    </Application.Resources>
+</Application>
